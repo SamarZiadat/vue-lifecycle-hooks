@@ -7,3 +7,4 @@ Vue fundamentals explored in this playground include:
 - Mounting the Vue Instance
 - Understanding Lifecyle Hooks
 - Using Lifecycle Hooks
+- Templates
